@@ -1,0 +1,11 @@
+# окружение и служебные файлы
+.venv/
+venv/
+.idea/
+__pycache__/
+*.pyc
+
+# результаты сборки PyInstaller
+build/
+dist/
+*.spec
